@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @M4XPRD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey there! 🗿
 
-<!---
-M4XPRD/M4XPRD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### My Codewars Rank:
+My name is Max. I'm currently learning Javascript & React. RIght now i'm interested in finding a job as a Frontend-developer.
+___
+
+### GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4XPRD)](https://github.com/anuraghazra/github-readme-stats)
+___
+### Codewars Rank:
 ![](https://www.codewars.com/users/M4XPRD/badges/large)
+___
+### Contact Me:
+📧 E-mail: ppmax@bk.ru
+
+📱 Telegram: [@maxprd](https://t.me/maxprd)
