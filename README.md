@@ -1,4 +1,4 @@
-### Hey there! 🗿
+### Hey there! 🤖
 
 My name is Max. I'm currently learning Javascript & React. Right now I'm interested in finding a job as a Frontend-developer.
 ***
