@@ -23,7 +23,7 @@ My name's Max. I'm currently learning Javascript & React. Right now I'm interest
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ***
-### Contact Me:
+### ▶️ Contact Me:
 📧 E-mail: ppmax@bk.ru
 
 📱 Telegram: [@maxprd](https://t.me/maxprd)
