@@ -28,7 +28,7 @@ My name's Max. I'm currently learning Javascript & React. Right now I'm interest
 
 📱 Telegram: [@maxprd](https://t.me/maxprd)
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4XPRD&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4XPRD&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4XPRD&theme=react) -->
 
