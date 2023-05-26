@@ -38,7 +38,7 @@ My name's Max. I'm currently learning Javascript & React. Right now I'm interest
 ***
 <!-- [![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XPRD&hide=contribs&theme=react&show_icons=true&hide=issues&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XPRD&hide=contribs,issues&theme=react&show_icons=true&rank_icon=github&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XPRD&hide=issues&theme=react&show_icons=true&rank_icon=github&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4XPRD&repo=frontend-project-12&theme=react)](https://github.com/M4XPRD/frontend-project-12)
 
