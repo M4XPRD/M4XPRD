@@ -43,6 +43,7 @@ My name's Max. I'm a frontend-developer, who's ready to do some cool stuff. Righ
 
 <details>
   <summary>:zap: Last made project</summary>
+  <br />
 
 [![Readme Card](https://github-readme-stats-m4xprd.vercel.app/api/pin/?username=M4XPRD&repo=Weather-App&theme=react)](https://github.com/M4XPRD/Weather-App)
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4XPRD&theme=react) -->
@@ -51,7 +52,8 @@ My name's Max. I'm a frontend-developer, who's ready to do some cool stuff. Righ
 
 <details>
   <summary>:zap: CodeWars</summary>
-  
+  <br />
+
 ![](https://www.codewars.com/users/M4XPRD/badges/large)
 <!-- ![](https://www.codewars.com/users/M4XPRD/badges/small) -->
 
@@ -59,6 +61,7 @@ My name's Max. I'm a frontend-developer, who's ready to do some cool stuff. Righ
 
 <details>
   <summary>:zap: LeetCode</summary>
+  <br />
 
 [![LeetCode user M4XPRD](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FM4XPRD&logo=leetcode&logoColor=yellow)](https://leetcode.com/M4XPRD/)
 
