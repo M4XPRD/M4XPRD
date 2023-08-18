@@ -36,11 +36,12 @@ My name's Max. I'm a frontend-developer, who's ready to do some cool stuff. Righ
 
 📱 Telegram: [@maxprd](https://t.me/maxprd)
 ***
-### Stats:
-<!-- [![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XPRD&hide=contribs&theme=react&show_icons=true&hide=issues&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XPRD&hide=issues&theme=react&show_icons=true&rank_icon=github&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4XPRD&repo=frontend-project-12&theme=react)](https://github.com/M4XPRD/frontend-project-12)
+### Stats:
+<!-- [![Max's GitHub Stats](https://github-readme-stats-m4xprd.vercel.app/api?username=M4XPRD&hide=contribs&theme=react&show_icons=true&hide=issues&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Max's GitHub Stats](https://github-readme-stats-m4xprd.vercel.app/api?username=M4XPRD&hide=issues&theme=react&show_icons=true&rank_icon=github&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats-m4xprd.vercel.app/api/pin/?username=M4XPRD&repo=frontend-project-12&theme=react)](https://github.com/M4XPRD/frontend-project-12)
 
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4XPRD&theme=react) -->
 
