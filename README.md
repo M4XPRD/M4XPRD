@@ -38,13 +38,8 @@ My name's Max. I'm a frontend-developer, who's ready to do some cool stuff. Righ
 ***
 
 ### Stats:
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
 <!-- [![Max's GitHub Stats](https://github-readme-stats-m4xprd.vercel.app/api?username=M4XPRD&hide=contribs&theme=react&show_icons=true&hide=issues&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Max's GitHub Stats](https://github-readme-stats-m4xprd.vercel.app/api?username=M4XPRD&hide=issues&theme=react&show_icons=true&rank_icon=github&custom_title=Max's&nbsp;Github&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 <details>
   <summary>:zap: Last made project</summary>
