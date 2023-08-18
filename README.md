@@ -44,7 +44,7 @@ My name's Max. I'm a frontend-developer, who's ready to do some cool stuff. Righ
 <details>
   <summary>:zap: Last made project</summary>
 
-[![Readme Card](https://github-readme-stats-m4xprd.vercel.app/api/pin/?username=M4XPRD&repo=frontend-project-12&theme=react)](https://github.com/M4XPRD/Weather-App)
+[![Readme Card](https://github-readme-stats-m4xprd.vercel.app/api/pin/?username=M4XPRD&repo=Weather-App&theme=react)](https://github.com/M4XPRD/Weather-App)
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M4XPRD&theme=react) -->
 
 </details>
