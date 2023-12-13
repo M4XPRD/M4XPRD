@@ -29,7 +29,7 @@ My name's Max. I'm a frontend-developer, who's ready to do some cool stuff. Righ
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ***
-### :godmode: Currently Learning:
+### Currently Learning:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ***
 ### Contact Me:
